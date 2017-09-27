@@ -1,0 +1,39 @@
+<templateSet group="JavaScript">
+  <template name="clg" value="console.log($value$)" description="short for console.log()" toReformat="true" toShortenFQNames="true">
+    <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="func" value="function $NAME$($PARAM$) {&#10;  $END$&#10;}" description="Inserts function expression" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAM" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="todo" value="// TODO ($WHO$): $END$" description="todo" toReformat="false" toShortenFQNames="true">
+    <variable name="WHO" expression="user()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="fixme" value="// FIXME ($WHO$): $END$" description="fixme" toReformat="false" toShortenFQNames="true">
+    <variable name="WHO" expression="user()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="notice" value="// NOTICE ($WHO$): $END$" description="notice" toReformat="false" toShortenFQNames="true">
+    <variable name="WHO" expression="user()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="review" value="// NEED REVIEW ($WHO$): $END$" description="need review" toReformat="false" toShortenFQNames="true">
+    <variable name="WHO" expression="user()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

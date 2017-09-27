@@ -1,0 +1,14 @@
+<templateSet group="html/xml">
+  <template name="todo" value="&lt;!-- TODO ($WHO$): $END$ --&gt;" description="add todo" toReformat="false" toShortenFQNames="true">
+    <variable name="WHO" expression="user()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="fixme" value="&lt;!-- FIXME ($WHO$): $END$ --&gt;" description="fixme" toReformat="false" toShortenFQNames="true">
+    <variable name="WHO" expression="user()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>

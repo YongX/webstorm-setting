@@ -1,0 +1,62 @@
+<application>
+  <component name="libraryTable">
+    <library name="angularjs-DefinitelyTyped" type="javaScript">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_angularjs_angular.d.ts" />
+        <root url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_angularjs_angular-route.d.ts" />
+        <root url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_angularjs_angular-resource.d.ts" />
+        <root url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_angularjs_angular-mocks.d.ts" />
+        <root url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_angularjs_angular-cookies.d.ts" />
+        <root url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_angularjs_angular-animate.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="express-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_express_express.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_express_express.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="jweixin-1.0.0" type="javaScript">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/http_res.wx.qq.com_open_js_jweixin-1.0.0.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="node-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_node_node-0.10.d.ts" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_node_node-0.8.8.d.ts" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_node_node.d.ts" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_node_node-0.11.d.ts" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_node_node-0.12.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_node_node-0.10.d.ts" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_node_node-0.8.8.d.ts" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_node_node.d.ts" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_node_node-0.11.d.ts" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_node_node-0.12.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="zepto-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_zepto_zepto.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_zepto_zepto.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>

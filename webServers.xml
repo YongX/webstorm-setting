@@ -1,0 +1,22 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="68914518-391d-42a7-bed4-5bb2fbe81dff" name="personal-site" url="http://osho.me">
+        <fileTransfer host="ohso.me" port="25888" rootFolder="/root/mycode/node-weichat" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="25888" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="6e196d99-7624-4b1b-9cf5-513849569b09" name="gesture-toy" url="http://osho.me">
+        <fileTransfer host="ohso.me" port="25888" rootFolder="/home/fuck/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="25888" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
