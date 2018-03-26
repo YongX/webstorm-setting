@@ -1,0 +1,16 @@
+<application>
+  <component name="libraryTable">
+    <library name="@types/egg.js" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/koa" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/node" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+  </component>
+</application>
