@@ -2,18 +2,16 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="wxss" type="CSS" />
-      <mapping ext="vue" type="HTML" />
       <mapping ext="we" type="HTML" />
       <mapping pattern=".hasakirc" type="JSON" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="websocket.json" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
-      <mapping ext="keystore" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="wxml" type="Vue.js" />
-      <removed_mapping ext="vue" type="Vue.js" />
     </extensionMap>
   </component>
 </application>
