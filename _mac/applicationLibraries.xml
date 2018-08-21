@@ -6,3 +6,11 @@
     </library>
   </component>
 </application>
+<application>
+  <component name="libraryTable">
+    <library name="@types/qs" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+  </component>
+</application>
