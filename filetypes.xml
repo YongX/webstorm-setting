@@ -12,6 +12,7 @@
       <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
+      <mapping ext="ftpl" type="PLAIN_TEXT" />
       <mapping ext="wxml" type="Vue.js" />
     </extensionMap>
   </component>
