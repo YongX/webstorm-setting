@@ -1,7 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="acss" type="CSS" />
       <mapping ext="wpy" type="Vue.js" />
+      <mapping ext="axml" type="XML" />
+      <removed_mapping ext="axml" approved="true" type="XHTML" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
