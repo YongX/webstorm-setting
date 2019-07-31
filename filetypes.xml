@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="acss" type="CSS" />
       <mapping ext="tpe" type="DBN-PSQL" />
       <mapping ext="pks" type="DBN-PSQL" />
       <mapping ext="prc" type="DBN-PSQL" />
@@ -12,10 +11,6 @@
       <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
-      <mapping pattern=".sequelizerc" type="JavaScript" />
-      <mapping ext="axml" type="Vue.js" />
-      <mapping ext="wpy" type="Vue.js" />
-      <removed_mapping ext="axml" approved="true" type="HTML" />
     </extensionMap>
   </component>
 </application>
