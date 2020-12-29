@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="lounger-cli" type="JavaScript" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="test2" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping pattern="api-card" type="TypeScript JSX" />
       <mapping ext="fnc" type="DBN-PSQL" />
