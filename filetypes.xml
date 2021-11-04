@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="main" type="AUTO_DETECTED" />
       <mapping pattern="uploadfile" type="AUTO_DETECTED" />
       <mapping pattern="lounger-cli" type="JavaScript" />
       <mapping pattern="test" type="PLAIN_TEXT" />
