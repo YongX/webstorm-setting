@@ -9,6 +9,7 @@
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="wx" type="PLAIN_TEXT" />
       <mapping ext="wxml" type="PLAIN_TEXT" />
+      <mapping ext="plantuml" type="PlantUML file" />
       <mapping pattern="api-card" type="TypeScript JSX" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
