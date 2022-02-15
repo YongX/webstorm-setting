@@ -5,22 +5,6 @@
       <option name="TAB_SIZE" value="2" />
     </value>
   </option>
-  <option name="HTML_KEEP_WHITESPACES" value="true" />
-  <option name="HTML_ALIGN_ATTRIBUTES" value="false" />
-  <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
-  <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html,thead,tbody,tfoot" />
-  <HTMLCodeStyleSettings>
-    <option name="HTML_ALIGN_ATTRIBUTES" value="false" />
-    <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
-    <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html,thead,tbody,tfoot" />
-  </HTMLCodeStyleSettings>
-  <JSCodeStyleSettings version="0">
-    <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
-    <option name="SPACES_WITHIN_IMPORTS" value="true" />
-  </JSCodeStyleSettings>
-  <MarkdownNavigatorCodeStyleSettings>
-    <option name="RIGHT_MARGIN" value="72" />
-  </MarkdownNavigatorCodeStyleSettings>
   <DBN-PSQL>
     <case-options enabled="true">
       <option name="KEYWORD_CASE" value="lower" />
@@ -45,8 +29,21 @@
       <option name="ITERATION_ELEMENTS_WRAPPING" value="chop_down_if_not_single" />
     </formatting-settings>
   </DBN-SQL>
+  <HTMLCodeStyleSettings>
+    <option name="HTML_ALIGN_ATTRIBUTES" value="false" />
+    <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
+    <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html,thead,tbody,tfoot" />
+  </HTMLCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
+    <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
+  </JSCodeStyleSettings>
+  <MarkdownNavigatorCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MarkdownNavigatorCodeStyleSettings>
   <TypeScriptCodeStyleSettings version="0">
     <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACKETS" value="true" />
+    <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </TypeScriptCodeStyleSettings>
